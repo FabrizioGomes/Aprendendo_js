@@ -6,6 +6,10 @@ console.log(7 / 0)
 */
 console.log("10" / 2)
 
+console.log('3' + 2) // string ganha 
+
+console.log('3' - 2)
+
 // quando é uma String o js nao realiza a função
 console.log("Show!" * 2)
 
